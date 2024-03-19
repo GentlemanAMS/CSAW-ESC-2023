@@ -1,15 +1,12 @@
-CSAW 2023 Embedded Security Challenge (ESC)
+[CSAW 2023 Embedded Security Challenge (ESC)](https://github.com/TrustworthyComputing/csaw_esc_2023)
 ===========================================
 ## Quick Links
 
-* [!!Solutions Released](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/Solutions.md)
-* [!!Finals Leaderboard](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/Finals-Leaderboard.md)
+* [Finals Solutions Released](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/Solutions.md)
+* [Finals Leaderboard](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/Finals-Leaderboard.md)
 * [Final Phase](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/Final_Phase.md)
-* [Deliverables](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/deliverables.md)
-* [Deadlines/Logistics (Updated to 11/6)](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/logistics.md#competition-deadlines)
 * [Challenge Description](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/Challenge_Description.md)
 * [csaw.io/esc](https://www.csaw.io/esc)
-* [Finalists](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/finalists.md)
 
 ## Overview
 
@@ -55,7 +52,7 @@ To be able to qualify to the final round, each team must register for the correc
 After registration closes, making changes to the existing members of a team (e.g., replacing a team member) or adding new team members, requires explicit permission from the organizers. This is also necessary for teams replacing team members or adding new team members during the final round of the competition.
 
 
-For more registration information, policies, deadlines, and for information for contacting CSAW organizers, visit the [logistics](logistics.md) page. For information about final phase submissions, please visit the [deliverables](deliverables.md) page.
+For more registration information, policies, deadlines, and for information for contacting CSAW organizers, visit the [logistics](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/logistics.md) page. For information about final phase submissions, please visit the [deliverables](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/deliverables.md) page.
 
 **Teams are encouraged to start investigating the challenge as early as possible.**
 

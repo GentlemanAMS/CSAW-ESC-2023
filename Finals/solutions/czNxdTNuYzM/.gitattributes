@@ -1,0 +1,2 @@
+lcd_display1.mp4 filter=lfs diff=lfs merge=lfs -text
+lcd_display2.mp4 filter=lfs diff=lfs merge=lfs -text
