@@ -1,8 +1,12 @@
-[CSAW 2023 Embedded Security Challenge (ESC)](https://github.com/TrustworthyComputing/csaw_esc_2023)
-Pariticipated in the Embedded Security Challenge (ESC) as part of [CSAW 2023](https://www.csaw.io/). 
-*One of the 20 teams qualified for the finals, and stood 3rd position overall and in CSAW-India*
+# [CSAW 2023 Embedded Security Challenge (ESC)](https://github.com/TrustworthyComputing/csaw_esc_2023)
 
-CSAW is founded by the department of Computer Science and Engineering at NYU Tandon School of Engineering, and is the most comprehensive student-run cyber security event in the world, featuring international competitions, workshops, and industry events.
+Pariticipated in the Embedded Security Challenge (ESC) as part of [CSAW 2023](https://www.csaw.io/). CSAW is founded by the department of Computer Science and Engineering at NYU Tandon School of Engineering, and is the most comprehensive student-run cyber security event in the world, featuring international competitions, workshops, and industry events.
+
+## Challenge Results
+- ***Stood 3rd position overall and in CSAW-India***
+- ***One of the 20 teams qualified for the finals***
+
+
 
 For more information regarding the competition refer to
 - [CSAW 2023 Embedded Security Challenge (ESC)](https://github.com/TrustworthyComputing/csaw_esc_2023)
